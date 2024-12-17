@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+ <channel>
+ <title>Mi Blog de Noticias</title>
+ <link>https://www.miblogdenoticias.com</link>
+ <description>Últimas actualizaciones de mi blog.</description>
+ <item>
+ <title>Artículo 1: ¿Qué es un RSS?</title>
+ <link>https://www.miblogdenoticias.com/rss</link>
+ <description>Explicación detallada sobre qué es un
+RSS.</description>
+ <pubDate>Wed, 13 Dec 2023 08:00:00 GMT</pubDate>
+ </item>
+ </channel>
+</rss>
